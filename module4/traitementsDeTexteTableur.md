@@ -449,7 +449,6 @@ Si vous respectez ces règles, alors le logiciel va pouvoir calculer la
 
 
 ```Activité
-
 [markdown]
 Voici le [texte brut de la charte](./media/charte.txt) des utilisateurs du système d'inforamtion de Lille3. Ouvrez ce texte dans un document LibreOffice par la méthode de votre choix, et utilisez les règles de mises en forme vues dans le cours pour reproduire [l'exemple que vous nous fournissons](./media/Charte.pdf).
 \n
