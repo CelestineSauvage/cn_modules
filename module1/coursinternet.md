@@ -1410,11 +1410,10 @@ Une petite remarque pour finir. Rappelez-vous que le DNS sert *uniquement* à tr
 Internet n'est pas un monde totalement libre et sans loi comme on pourrait être tenté de le croire. De grands acteurs internationaux et nationaux participent de la régulation d'internet. Nous vous proposons ici d'en découvrir deux.
 \n
 En utilisant les ressources suivantes (et d'autres) :
-\n
-    - [http://fr.wikipedia.org/wiki/Domain_Name_System](http://fr.wikipedia.org/wiki/Domain_Name_System)
-    - [http://fr.wikipedia.org/wiki/Internet_Corporation_for_Assigned_Names_and_Numbers](http://fr.wikipedia.org/wiki/Internet_Corporation_for_Assigned_Names_and_Numbers)
-    - [http://www.cnil.fr/](http://www.cnil.fr/)
-    - [http://www.cnil.fr/fileadmin/documents/La_CNIL/publications/CNIL_RA2012_web.pdf](http://www.cnil.fr/fileadmin/documents/La_CNIL/publications/CNIL_RA2012_web.pdf)
+    - [Domain_Name_System](http://fr.wikipedia.org/wiki/Domain_Name_System)
+    - [Internet_Corporation_for_Assigned_Names_and_Numbers](http://fr.wikipedia.org/wiki/Internet_Corporation_for_Assigned_Names_and_Numbers)
+    - [cnil.fr](http://www.cnil.fr/)
+    - [cnil.fr/fileadmin/documents/La_CNIL/publications/CNIL_RA2012_web.pdf](http://www.cnil.fr/fileadmin/documents/La_CNIL/publications/CNIL_RA2012_web.pdf)
 \n
 cherchez les réponses aux questions suivantes :
 \n
