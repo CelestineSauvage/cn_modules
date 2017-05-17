@@ -452,7 +452,7 @@ Si vous respectez ces règles, alors le logiciel va pouvoir calculer la
 
 [markdown]
 Voici le [texte brut de la charte](./media/charte.txt) des utilisateurs du système d'inforamtion de Lille3. Ouvrez ce texte dans un document LibreOffice par la méthode de votre choix, et utilisez les règles de mises en forme vues dans le cours pour reproduire [l'exemple que vous nous fournissons](./media/Charte.pdf).
-
+\n
 Vous noterez bien :
 \n
 - les deux niveaux de titre (le titre principal et les titres de niveau1) ;
@@ -473,7 +473,6 @@ N'hésitez pas à échanger sur le forum du cours si vous rencontrez des difficu
 \n
 À la fin, pour vérifier que vous avez correctement utilisé les styles et non la mise en forme directe, sélectionner l'ensemble de votre texte (ctrl-A), aller dans le menu `format` et sélectionner `effacer le formatage direct`. Votre mise en forme ne doit pas bouger.
 \n
-
   Enregistrer votre travail dans un fichier que vous déposerez sur votre compte owncloud. Récupérez le lien de ce fichier et collez-le dans la zone de texte de cette activité.{}
 ```
 
