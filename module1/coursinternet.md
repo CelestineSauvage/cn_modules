@@ -79,7 +79,7 @@ information quelle qu'elle soit.</p>#<p>Oui !</p>
 
 ::Où sont les processeurs ?::
 [html]<p>Parmi ces objets, quels sont ceux équipés de
-processeur(s) \:</p>{ ~%20%<p>tablettes</p>
+processeur(s) :</p>{ ~%20%<p>tablettes</p>
 ~%20%<p>smartphones</p> ~%20%<p>box ADSL</p>
 ~%20%<p>lecteur mp3</p> ~%20%<p>ordinateur</p>
 ~<p>aucun</p>#<p>Tous !</p> ####<p>Tous
