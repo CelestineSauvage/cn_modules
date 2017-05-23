@@ -169,7 +169,7 @@ Voici quelques liens que nous vous proposons mais que vous avez sûrement trouv�
 - En politique et média : Qu'est-ce que la vérification par les faits (fact-checking en anglais) ? En quoi le numérique l'a rendue possible / facile ?
 	- [vérification par les faits](http://fr.wikipedia.org/wiki/Vérification_par_les_faits)
 - En citoyenneté : Que signifie vote électronique et en quoi cela pose-t-il des questions essentielles ? Trouver au moins un avantage et un inconvénient.
-	- [arguments] (http://fr.wikipedia.org/wiki/Vote_électronique#Arguments_en_faveur)
+	- [arguments](http://fr.wikipedia.org/wiki/Vote_électronique#Arguments_en_faveur)
 }
 ```
 
